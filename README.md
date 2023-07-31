@@ -8,7 +8,7 @@
 ## 🌐 Competitive Programming</b>
 
 <p float="left">
-<img height="273em" src= "https://raw.githubusercontent.com/fourat153/test/main/output/max_rating.svg" />
+<img height="27em" src= "https://raw.githubusercontent.com/fourat153/test/main/output/max_rating.svg" />
 <img height="280em" src="https://raw.githubusercontent.com/fourat153/test/main/output/light_card.svg#gh-dark-mode-only" />
 </p>
 
