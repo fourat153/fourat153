@@ -9,8 +9,8 @@
 
 ![](https://raw.githubusercontent.com/fourat153/test/main/output/light_card.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/fourat153/test/main/output/light_card.svg)
-![](https://raw.githubusercontent.com/ahmedchammam/cf-stats/main/output/max_rating.svg)
-![](https://raw.githubusercontent.com/ahmedchammam/cf-stats/main/output/rating.svg)
+![](https://raw.githubusercontent.com/ahmedchammam/test/main/output/max_rating.svg)
+![](https://raw.githubusercontent.com/ahmedchammam/test/main/output/rating.svg)
 
 
 # 💻 Tech Stack:
