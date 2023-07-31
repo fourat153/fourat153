@@ -7,11 +7,9 @@
 
 ## 🌐 Competitive Programming</b>
 
-<p float="left">
 
-<img height="280em" src="https://raw.githubusercontent.com/fourat153/test/main/output/light_card.svg#gh-dark-mode-only" />
-</p>
 
+![](https://raw.githubusercontent.com/fourat153/test/main/output/light_card.svg#gh-dark-mode-only)
 
 
 # 💻 Tech Stack:
