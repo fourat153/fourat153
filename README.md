@@ -7,8 +7,8 @@
 
 ## 🌐 Competitive Programming</b>
 
-![](https://raw.githubusercontent.com/your-github-username/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/your-github-username/cf-stats/main/output/light_card.svg)
+![](https://raw.githubusercontent.com/fourat153/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/fourat153/cf-stats/main/output/light_card.svg)
 
 
 # 💻 Tech Stack:
