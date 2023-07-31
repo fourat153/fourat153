@@ -6,10 +6,11 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ahmed.chammam.73) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahmedfourat/)
 
 ## 🌐 Competitive Programming</b>
-![](https://raw.githubusercontent.com/fourat153/test/main/output/max_rating.svg)
-![](https://raw.githubusercontent.com/fourat153/test/main/output/rating.svg)
-![](https://raw.githubusercontent.com/fourat153/test/main/output/light_card.svg#gh-dark-mode-only)
 
+<p float="left">
+<img height="273em" src= "https://raw.githubusercontent.com/fourat153/test/main/output/max_rating.svg" />
+<img height="280em" src="https://raw.githubusercontent.com/fourat153/test/main/output/light_card.svg#gh-dark-mode-only" />
+</p>
 
 
 
