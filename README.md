@@ -9,7 +9,6 @@
 <p float="left">
 ![](https://raw.githubusercontent.com/fourat153/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/fourat153/cf-stats/main/output/light_card.svg)
-
 </p>
 
 
