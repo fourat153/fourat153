@@ -9,7 +9,7 @@
 ![](https://raw.githubusercontent.com/fourat153/test/main/output/max_rating.svg)
 ![](https://raw.githubusercontent.com/fourat153/test/main/output/rating.svg)
 ![](https://raw.githubusercontent.com/fourat153/test/main/output/light_card.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/fourat153/test/main/output/light_card.svg)
+
 
 
 
