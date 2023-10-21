@@ -13,7 +13,7 @@
 
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![autosar]
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![autosar](https://www.google.com/search?q=autosar+logo+png&client=firefox-b-d&sca_esv=575473620&tbm=isch&sxsrf=AM9HkKndmhWUndMQL560ZQv5mMcSEptGSQ:1697910448491&source=lnms&sa=X&ved=2ahUKEwjv1pGp2YeCAxWyR_EDHe3bDCsQ_AUoAXoECAIQAw&biw=1536&bih=739&dpr=1.25#imgrc=vfrOsYGQHUXunM)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=fourat153&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fourat153&theme=dark&hide_border=false)<br/>
