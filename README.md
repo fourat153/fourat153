@@ -1,52 +1,31 @@
-
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
-
-<h2> Hey there! I'm Ahmed.</h2>
-
-<img width="200" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+# 💫 About Me:
+🔭 I’m currently working on emebdded systems<br>👯 I’m looking to collaborate on <br>🤝 I’m looking for help with<br>🌱 I’m currently learning ROS ,ROS2 and different microcontrolls<br>💬 Ask me about any thing related to embedded systems <br>⚡ Fun fact : i want to build iron man suit 
 
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ahmed.chammam.73) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahmedfourat/)
 
-I'm a communication and electronics student who is passionate about Embedded Software.
-
-- 🎓 &nbsp; I’m currently a graduated student form gafsa Unversity.
-- 💼 &nbsp; Working as an Embedded firmware.
-- 🌱 &nbsp; Learning more about Microcontrollers , Embedded Sofware , Embedded Linux and AUTOSAR. 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mahmoud-karem-zamel) [Gmail](https://www.mahmoudkarem.me@gmail.com)
-
-<h3>  &nbsp;🛠️ Languages and Tools:</h3>
+## 🌐 Competitive Programming</b>
 
 
-- 💻 &nbsp;
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 
-- ⚙️ &nbsp;
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+![](https://raw.githubusercontent.com/fourat153/test/main/output/light_card.svg#gh-dark-mode-only)
 
-- 🔧 &nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
-  
-<br/>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![autosar]
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=fourat153&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=fourat153&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fourat153&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### ✨ Visitors 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=fourat153&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fourat153" alt="fourat153" /> </p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+[![](https://visitcount.itsvg.in/api?id=fourat153&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 📊 Profile stats
-[![Ahmed 's github stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Mahmoud-Karem/github-readme-stats)
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-</p>
-<img src="https://imgur.com/rilHVxA.png"/>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
