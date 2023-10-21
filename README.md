@@ -1,7 +1,7 @@
 
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-<h2> Hey there! I'm Mahmoud.</h2>
+<h2> Hey there! I'm Ahmed.</h2>
 
 <img width="200" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
@@ -39,7 +39,7 @@ I'm a communication and electronics student who is passionate about Embedded Sof
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### ✨ Visitors 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mahmoud-Karem" alt="Mahmoud-Karem" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fourat153" alt="fourat153" /> </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
