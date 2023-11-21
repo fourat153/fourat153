@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ahmedfouratchammamchammam@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">check my commpetitve programming accounts:</h3>
 <p align="left">
 <a href="https://codeforces.com/profile/ahmedchammam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ahmedchammam" height="30" width="40" /></a>
 </p>
