@@ -16,7 +16,7 @@
 
 <h3 align="left">Check my commpetitve programming accounts:</h3>
 <p align="left">
-<a href="https://codeforces.com/profile/ahmedchammam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ahmedchammam" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/ahmedchammam" target="blank"><img align="center" src="https://cloud.githubusercontent.com/assets/5856011/6236489/fd2c2628-b6b8-11e4-9db9-05045d3438c6.png" alt="ahmedchammam" height="30" width="40" /></a>
 </p>
 
 <p align="left">
