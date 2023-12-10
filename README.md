@@ -20,7 +20,7 @@
 </p>
 
 <p align="left">
-<a href="https://www.hackerrank.com/profile/ahmedchammam30" target="blank"><img align="center" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/hackerrank.svg" alt="ahmedchammam" height="30" width="100" /></a>
+<a href="https://www.hackerrank.com/profile/ahmedchammam30" target="blank"><img align="center" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/hackerrank.svg" alt="ahmedchammam" height="50" width="120" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
