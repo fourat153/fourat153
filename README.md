@@ -32,6 +32,7 @@
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/e6531212c21f8e39b65a05faaa6791af5dde0f334e44de264ef410e202f903a8/68747470733a2f2f7777772e6465766f70737363686f6f6c2e636f6d2f747261696e65722f6173736574732f696d616765732f6d616b6566696c65732d6c6f676f2e706e67" alt="c" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://logotyp.us/file/keil.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/M/mplab-x-ide-logo-B1D898D52B-seeklogo.com.png" alt="c" width="40" height="40"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Autosar_Logo.svg" alt="c" width="40" height="40"/> </a>
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fourat154&show_icons=true&locale=en" alt="fourat154" /></p>
