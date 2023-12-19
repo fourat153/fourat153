@@ -18,8 +18,6 @@
 <p align="left">
 <a href="https://codeforces.com/profile/ahmedchammam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ahmedchammam" height="30" width="40" /></a>
 </p>
-
-<p align="left">
 <a href="https://www.hackerrank.com/profile/ahmedchammam30" target="blank"><img align="center" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/hackerrank.svg" alt="ahmedchammam" height="30" width="40" /></a>
 </p>
 
