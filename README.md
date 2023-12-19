@@ -14,15 +14,8 @@
 
 - 📫 How to reach me **ahmedfouratchammamchammam@gmail.com**
 
-<h3 align="left">Check my commpetitve programming accounts:</h3>
-<p align="left">
-<a href="https://codeforces.com/profile/ahmedchammam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ahmedchammam" height="30" width="40" /></a>
-</p>
-<a href="https://www.hackerrank.com/profile/ahmedchammam30" target="blank"><img align="center" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/hackerrank.svg" alt="ahmedchammam" height="30" width="40" /></a>
-</p>
 
-
-<h3 align="left">Languages :</h3>
+<h3 align="left">Check my commpetitve programming accounts :</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/hackerrank.svg" alt="cplusplus" width="40" height="40"/> </a>  </p>
 
 <h3 align="left">Languages :</h3>
