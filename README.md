@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif">
 
-- 🔭 I’m currently working on **grinding leetcode with C start 1/1/2024**
+- 🔭 I’m currently working on **mastering embedded**
 
 - 🌱 I’m currently learning **c , c++ , ros , autosar...**
 
