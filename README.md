@@ -2,7 +2,7 @@
 <h3 align="center">A passionate embedded systems developer from Tunisia</h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif">
 
 - 🔭 I’m currently working on **grinding leetcode with C start 1/1/2024**
 
