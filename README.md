@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif">
 
 - 🔭 I’m currently working on **mastering embedded**
-
+- 🔭 RULE 1 : one commit per day and isn't **readme modification**
 - 🌱 I’m currently learning **c , c++ , ros , autosar...**
 
 - 👯 I’m looking to collaborate on **any embedded project**
